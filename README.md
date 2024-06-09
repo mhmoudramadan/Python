@@ -27,7 +27,7 @@ To get started with Python programming using this repository, follow these steps
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mhmoudramadan/ADC-Test.git
+   git clone https://github.com/mhmoudramadan/Python.git
    ```
 
 ## Contributing
